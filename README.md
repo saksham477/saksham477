@@ -19,7 +19,7 @@ Frontend: React, HTML, CSS, Tailwind
 
 Backend: Node.js, Express.js
 
-Database: MongoDB
+Database: MongoDB,MySQL
 
 Tools: Git, GitHub, Postman, VS Code, Android Studio, Prisma ORM
 
