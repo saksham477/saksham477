@@ -8,8 +8,6 @@ I'm a passionate software developer based in Kathmandu,Nepal with a strong inter
 
 💡 I enjoy solving problems and exploring new technologies
 
-🛠️ Currently working as backend intern in NEST NEPAL!
-
 🔍 Learning more about: System Design and Clean Architecture
 
 🛠️ Tech Stack
